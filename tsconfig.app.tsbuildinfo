@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/createappointment.tsx","./src/components/editepatient.tsx","./src/components/navbar.tsx","./src/components/patient.tsx","./src/components/footer/footer.tsx","./src/components/landing/landing.tsx","./src/pages/appointments.tsx","./src/pages/contact.tsx","./src/pages/home.tsx"],"version":"5.6.3"}
